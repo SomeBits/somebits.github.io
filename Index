@@ -1,0 +1,20 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Cloverdale Partners</title>
+  <meta name="description" content="Investment Real Estate Research">
+  <meta name="author" content="Cloverdale Partners">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  body {
+    background-image: LAMapFixedv3.png;
+}
+</body>
+</html>
